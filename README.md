@@ -8,3 +8,9 @@ For run the project:
 
 For production:
 - npm run build
+
+Resources:
+- [RoboHash](https://robohash.org/)
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+  - [Backup: JSONPlaceholder](https://jsonplaceholder.cypress.io/)
+ 
