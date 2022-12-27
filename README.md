@@ -1,4 +1,4 @@
-# Kittens - React
+# Kittens - React - Redux (without redux-toolkit)
 
 Created using React v18.2.0
 
@@ -13,4 +13,5 @@ Resources:
 - [RoboHash](https://robohash.org/)
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
   - [Backup: JSONPlaceholder](https://jsonplaceholder.cypress.io/)
+
 
